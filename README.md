@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 Always trying to learn new things <br>🌱 I’m currently studying business Informatics<br>
+🔭 Always trying to learn new things <br>🌱 B.Sc. Business Informatics <br>
 
 
 ## 🌐 Socials:
